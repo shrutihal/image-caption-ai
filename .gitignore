@@ -1,0 +1,15 @@
+# Ignore Python 
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Ignore specific dirs
+archive/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
